@@ -12,6 +12,10 @@
 		822CADB220AFD42000EA8987 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 822CADB020AFD42000EA8987 /* Main.storyboard */; };
 		822CADB420AFD42000EA8987 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 822CADB320AFD42000EA8987 /* Assets.xcassets */; };
 		822CADB720AFD42000EA8987 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 822CADB520AFD42000EA8987 /* LaunchScreen.storyboard */; };
+		82AF856420AFE18000500744 /* sakura1.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 82AF856320AFE18000500744 /* sakura1.JPG */; };
+		82AF856620AFE1BC00500744 /* sakura2.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 82AF856520AFE1BB00500744 /* sakura2.JPG */; };
+		82AF856820AFE1C100500744 /* sakura3.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 82AF856720AFE1C100500744 /* sakura3.JPG */; };
+		82AF856A20AFE1C900500744 /* sakura4.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 82AF856920AFE1C900500744 /* sakura4.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +26,10 @@
 		822CADB320AFD42000EA8987 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		822CADB620AFD42000EA8987 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		822CADB820AFD42000EA8987 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		82AF856320AFE18000500744 /* sakura1.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sakura1.JPG; sourceTree = "<group>"; };
+		82AF856520AFE1BB00500744 /* sakura2.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sakura2.JPG; sourceTree = "<group>"; };
+		82AF856720AFE1C100500744 /* sakura3.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sakura3.JPG; sourceTree = "<group>"; };
+		82AF856920AFE1C900500744 /* sakura4.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sakura4.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +63,10 @@
 			isa = PBXGroup;
 			children = (
 				822CADAC20AFD42000EA8987 /* AppDelegate.swift */,
+				82AF856320AFE18000500744 /* sakura1.JPG */,
+				82AF856520AFE1BB00500744 /* sakura2.JPG */,
+				82AF856720AFE1C100500744 /* sakura3.JPG */,
+				82AF856920AFE1C900500744 /* sakura4.JPG */,
 				822CADAE20AFD42000EA8987 /* ViewController.swift */,
 				822CADB020AFD42000EA8987 /* Main.storyboard */,
 				822CADB320AFD42000EA8987 /* Assets.xcassets */,
@@ -123,8 +135,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82AF856620AFE1BC00500744 /* sakura2.JPG in Resources */,
 				822CADB720AFD42000EA8987 /* LaunchScreen.storyboard in Resources */,
+				82AF856A20AFE1C900500744 /* sakura4.JPG in Resources */,
 				822CADB420AFD42000EA8987 /* Assets.xcassets in Resources */,
+				82AF856420AFE18000500744 /* sakura1.JPG in Resources */,
+				82AF856820AFE1C100500744 /* sakura3.JPG in Resources */,
 				822CADB220AFD42000EA8987 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

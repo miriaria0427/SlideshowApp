@@ -82,9 +82,6 @@ class ViewController: UIViewController {
         //画像の名前の配列
         let imageNameArray = ["sakura1.JPG","sakura2.JPG","sakura3.JPG","sakura4.JPG"]
         
-        //要素数保存用変数
-        //let maximageArray : Int! = imageNameArray.count
-        
         //画像の番号が正常な範囲を指しているかチェック
         //範囲より下を指している場合、最後の画像を表示
         if dispImageNumber < 0 {
